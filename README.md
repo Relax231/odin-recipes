@@ -5,3 +5,5 @@
 2. add, commit and pushed the first version to github
 
 3. Working on https://www.theodinproject.com/lessons/foundations-recipes  -> Stopt at Iteration 3 - 2.
+
+4. Finished Assignment and rdy to test the git publish
